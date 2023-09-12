@@ -1,3 +1,20 @@
+=begin
+= Zachary Stray
+= 9/12/2023
+= Poly-Poly Solution
+=
+= takes in a text file that is formated like
+=
+=
+= how many polygons to be analized
+= the number of sides the polygon(s) has
+= the poly-polygonal number to start at
+= repeat or 0
+=
+= finds the first 5 poly-poly numbers that are the same between all the poly-polygonal shapes given
+=
+=end
+
 # @param {int} sides
 # @param {int} step
 # @return{int}
